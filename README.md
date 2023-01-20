@@ -6,4 +6,4 @@
 **Objeto:** Calculadora.
 
 
-**Função:** Cumprir as funções básicas de uma calculadora
+**Função:** Cumprir as funções básicas de uma calculadora.
